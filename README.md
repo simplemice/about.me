@@ -1,3 +1,3 @@
-# about.me
+# about @simplemice.eth
 
-about.simplemice.network
+web: https://nightdestiny.com or https://about.nightdestiny.com or https://about.simplemice.network
